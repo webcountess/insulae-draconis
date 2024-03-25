@@ -94,7 +94,7 @@ prevurl:
    <tbody>
       <tr>
         <td><strong>West Chamberlain</strong></td>
-        <td>Lord Aodháin Dhá Cheist<br><a href="mailto:chamberlain-west@insulaedraconis.org">chamberlain-west@insulaedraconis.org</a></td>
+        <td>Lord Micheal of Dun in Mara<br><a href="mailto:chamberlain-west@insulaedraconis.org">chamberlain-west@insulaedraconis.org</a></td>
       </tr>
       <tr>
         <td><strong>East Chamberlain</strong></td>
